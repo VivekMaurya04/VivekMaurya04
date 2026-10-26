@@ -13,7 +13,7 @@
 
 - 🔍 What I do: query databases, clean and transform datasets, build dashboards, and tell stories with data
 
-- 📫 How to reach me: **vivekmauryarkt1998@gmail.com**
+- 📫 How to reach me: **vivekmaurya0425@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
